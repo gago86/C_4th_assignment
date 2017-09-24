@@ -9,7 +9,7 @@ int main()
 	scanf("%d %d", &r, &c);
 
 	
-	printf("\nEnter elements of matrix:\n");
+	printf("Enter elements of matrix:\n");
 
 	for(i=0;i<r;++i)
 	
@@ -20,7 +20,7 @@ int main()
 		
 	}
 
-	printf("\nEntered matrix:\n");
+	printf("Entered matrix:\n");
 
 	for(i=0;i<r;++i){
 	
