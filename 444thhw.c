@@ -28,7 +28,7 @@ int main()
 		{
 			printf("%d", a[i][j]);
 			if (j == c - 1)
-				printf("\n");
+				puts("");
 		}
 	}
 
@@ -39,7 +39,7 @@ int main()
 		for (j = 0; j < r; ++j) {
 			printf("%d", transpose[i][j]);
 			if (j == r - 1)
-				printf("\n");
+				puts("");
 		}		
 		}
 	
